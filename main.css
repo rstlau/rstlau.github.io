@@ -101,7 +101,7 @@
   text-transform: lowercase;
   font-size: 13px;
   text-decoration: none;
-  opacity: .5;
+  /*opacity: .5;*/
   color: #fff;
   /*
   -webkit-transition: opacity .1s ease-in;*/
