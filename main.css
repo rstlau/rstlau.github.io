@@ -67,6 +67,7 @@
   margin-bottom: 0;
   margin-top: 28px;
   color:black;
+  text-transform: uppercase;
 }
 /*.byline {
   margin-top: 2px;
@@ -96,6 +97,7 @@
   opacity: .5;
   color: DarkGray;
   -webkit-transition: opacity .1s ease-in;
+  text-transform: lowercase;
 }
 .sublink:hover,
 
