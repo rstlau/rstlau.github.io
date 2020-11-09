@@ -1,10 +1,10 @@
 /*Running banner
 ----------------------------- */
 .header {
-	padding: 60px;
+	padding: 30px;
 	text-align: center;
 	background: rgb(237, 227, 83);
-	font-size: 20px;
+	font-size: 13px;
 	color:black;
 	font-family: "Playfair Display", serif;
 	text-transform: lowercase;
@@ -125,3 +125,35 @@
 	text-decoration:none;
 	color: #fff;
 }
+
+/* Contacts
+----------------------------- 
+.contacts {
+  position: fixed;
+  width: 475px;
+  left: 50%;
+  bottom: 50px;
+  margin-left: -237px;
+  padding: 0;
+  list-style-type: none;
+}
+.contacts > li {
+  display: inline-block;
+}
+
+.contacts-email {
+  margin-top: 10px;
+  display: block;
+} 
+.contacts-email-link{
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  opacity: .5;
+  -webkit-transition: opacity .1s ease-in;
+}
+.contacts-email-link:hover,
+.contacts-email-link:focus {
+  opacity: 1;
+} 
+*/
