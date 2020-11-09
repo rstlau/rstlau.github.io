@@ -47,8 +47,7 @@
   z-index: 2;
   font-family: "Lato", sans-serif;
   line-height: 2.2;
-  letter-spacing: 0.4em;
-  text-transform: lowercase;
+  text-align:center;
   font-size: 13px;
   text-decoration: none;
   opacity: .5;
@@ -62,7 +61,7 @@
 }
 .contactlink:visited{
 	text-decoration:none;
-	color: #fff;
+	color: DarkGray;
 }
   
 
