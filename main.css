@@ -9,7 +9,7 @@
   /*background-image: url('bg.jpg'); update with bg*/
   background-size: cover;
   background-position: center;
-  color: #fff;
+  /*color: #fff;*/
   text-align: center;
   text-rendering: optimizeLegibility;
 }
