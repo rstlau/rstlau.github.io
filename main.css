@@ -38,6 +38,23 @@
   max-width: 80%;
 }
 
+.wrapper-inner:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 337px;
+  height: 337px;
+  left: 50%;
+  top: 50%;
+  margin-left: -168px;
+  margin-top: -168px;
+  /*400x400*/
+  background-image: url(webpbackg.png);
+  background-size: 100%;
+}
+
 /* Type
 ----------------------------- */
 .name {
@@ -49,7 +66,7 @@
   font-family: "Lobster", cursive;
   margin-bottom: 0;
   margin-top: 28px;
-  color: rgb(96, 163, 153);
+  color:black;
 }
 /*.byline {
   margin-top: 2px;
@@ -77,15 +94,16 @@
   text-decoration: none;
   font-family: "Lato", sans-serif;
   opacity: .5;
-  color:blue;
+  color: DarkGray;
   -webkit-transition: opacity .1s ease-in;
 }
 .sublink:hover,
+
 .sublink:focus {
   opacity: 1;
 } 
 
 .sublink:visited{
 	text-decoration:none;
-	color:blue;
+	color: DarkGray;
 }
