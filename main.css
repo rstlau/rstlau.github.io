@@ -46,10 +46,10 @@
   font-size: 50px;
   line-height: 1;
   letter-spacing: 0.26em;
-  font-family: "Lobster", cursive;
+  font-family: "Monoton", cursive;
   margin-bottom: 0;
   margin-top: 28px;
-  color: rgb(99, 224, 174)
+  color: rgb(99, 224, 174);
 }
 .byline {
   margin-top: 2px;
