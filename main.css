@@ -44,14 +44,14 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 600px;
-  height: 600px;
+  width: 337px;
+  height: 337px;
   left: 50%;
   top: 50%;
   margin-left: -168px;
   margin-top: -168px;
   /*400x400*/
-  background-image: url(webpbackg.png);
+  background-image: url(bluerectangle.png);
   background-size: 100%;
 }
 
