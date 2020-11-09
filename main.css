@@ -103,14 +103,16 @@
   text-decoration: none;
   opacity: .5;
   color: #fff;
-  -webkit-transition: opacity .1s ease-in;
+  /*
+  -webkit-transition: opacity .1s ease-in;*/
   text-transform: lowercase;
 }
+/*
 .sublink:hover,
 
 .sublink:focus {
   opacity: 1;
-} 
+} */
 
 .sublink:visited{
 	text-decoration:none;
