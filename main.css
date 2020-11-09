@@ -102,7 +102,7 @@
   font-size: 13px;
   text-decoration: none;
   opacity: .5;
-  color: DarkGray;
+  color: #fff;
   -webkit-transition: opacity .1s ease-in;
   text-transform: lowercase;
 }
@@ -114,5 +114,5 @@
 
 .sublink:visited{
 	text-decoration:none;
-	color: DarkGray;
+	color: #fff;
 }
