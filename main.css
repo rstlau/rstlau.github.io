@@ -43,19 +43,20 @@
 .name {
   position: relative;
   z-index: 2;
-  font-size: 34px;
+  font-size: 50px;
   line-height: 1;
   letter-spacing: 0.26em;
   font-family: "Lobster", cursive;
   margin-bottom: 0;
   margin-top: 28px;
+  color: rgb(99, 224, 174)
 }
 .byline {
   margin-top: 2px;
   position: relative;
   z-index: 2;
   font-family: "Lato", sans-serif;
-  font-size: 13px;
+  font-size: 34px;
   line-height: 2.2;
   letter-spacing: 0.4em;
   text-transform: lowercase;
