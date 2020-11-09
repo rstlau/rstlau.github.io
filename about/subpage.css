@@ -11,7 +11,7 @@ Centering/backgrounds
   background-size: cover;
   background-position: center;*/
   color: #fff;
-  text-align: right; /*right justify this block*/
+  text-align: center;
   text-rendering: optimizeLegibility;
 }
 .wrapper:before {
