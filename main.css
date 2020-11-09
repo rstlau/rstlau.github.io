@@ -27,7 +27,7 @@
   right: 10px;
   bottom: 10px;
   left: 10px;
-  border: 1px solid rgba(255,255,255,.2);
+  /*border: 1px solid rgba(255,255,255,.2);*/
 }
 .wrapper-inner {
   position: relative;
@@ -51,7 +51,7 @@
   margin-top: 28px;
   color: rgb(99, 224, 174);
 }
-.byline {
+/*.byline {
   margin-top: 2px;
   position: relative;
   z-index: 2;
@@ -67,4 +67,19 @@
   border-color: rgba(255,255,255,.3);
   border-width: 0;
   border-bottom-width: 1px;
+}*/
+
+/* Sub Links
+----------------------------- */
+.sublink {
+  /*color: #fff;*/
+  font-size: 34px;
+  text-decoration: none;
+  font-family: "Lato", sans-serif;
+  opacity: .5;
+  -webkit-transition: opacity .1s ease-in;
 }
+.sublink:hover,
+.sublink:focus {
+  opacity: 1;
+} 
