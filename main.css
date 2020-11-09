@@ -46,10 +46,10 @@
   font-size: 50px;
   line-height: 1;
   letter-spacing: 0.26em;
-  font-family: "Monoton", cursive;
+  font-family: "Lobster", cursive;
   margin-bottom: 0;
   margin-top: 28px;
-  color: rgb(99, 224, 174);
+  color: rgb(96, 163, 153);
 }
 /*.byline {
   margin-top: 2px;
@@ -77,9 +77,15 @@
   text-decoration: none;
   font-family: "Lato", sans-serif;
   opacity: .5;
+  color:blue;
   -webkit-transition: opacity .1s ease-in;
 }
 .sublink:hover,
 .sublink:focus {
   opacity: 1;
 } 
+
+.sublink:visited{
+	text-decoration:none;
+	color:blue;
+}
