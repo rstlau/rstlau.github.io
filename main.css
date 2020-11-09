@@ -15,6 +15,7 @@
 	color:black;
 	font-family: "Playfair Display", serif;
 	text-transform: lowercase;
+	z-index:3;
 }
 	
 
