@@ -9,7 +9,7 @@
   /*background-image: url('bg.jpg'); update with bg
   background-size: cover;
   background-position: center;*/
-  color: #fff
+  color: #fff;
   text-align: center;
   text-rendering: optimizeLegibility;
 }
@@ -50,7 +50,7 @@
   top: 50%;
   margin-left: -168px;
   margin-top: -168px;
-  /*400x400*/
+  /*400pxX400px*/
   background-image: url(blue-rectangle.png);
   background-size: 100%;
 }
@@ -69,7 +69,8 @@
   color:black;
   text-transform: uppercase;
 }
-.byline {
+/*
+.subline {
   margin-top: 2px;
   position: relative;
   z-index: 2;
@@ -91,9 +92,15 @@
 /* Sub Links
 ----------------------------- */
 .sublink {
+  margin-top: 2px;
+  position: relative;
+  z-index: 2;
+  font-family: "Lato", sans-serif;
+  line-height: 2.2;
+  letter-spacing: 0.4em;
+  text-transform: lowercase;
   font-size: 13px;
   text-decoration: none;
-  font-family: "Lato", sans-serif;
   opacity: .5;
   color: DarkGray;
   -webkit-transition: opacity .1s ease-in;
