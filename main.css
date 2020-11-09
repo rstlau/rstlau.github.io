@@ -1,33 +1,21 @@
-/*Running banner
+/*header fix
 ----------------------------- */
-
-.header_index {
-    height: 100%;
-    width: 100%;
-    color: rgba(237, 227, 83);
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 50px;
-    /*background-image: url(image.png);
-    background-repeat: no-repeat;
-	*/
-    position: absolute;
+.stickyheader {
+	position: -webkit-sticky;
+	position:sticky;
+	top:0;
+	background-color:rgba(237, 227, 83);
+	padding:20px;
 }
-.enter_button {
-    width: 140px;
-    height:50px;
-    position: relative;
-    margin-top:auto;
-    margin-bottom:auto;
-    margin-left:auto;
-    margin-right:auto;
+
+.stickytext {
 	text-alight: center;
 	font-size: 13px;
 	color:black;
 	font-family: "Playfair Display", serif;
 	text-transform: lowercase;
 }
-
+	
 
 /* Centering/backgrounds
 ----------------------------- */
