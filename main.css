@@ -50,7 +50,6 @@
   font-family: "Lobster", cursive;
   margin-bottom: 0;
   margin-top: 28px;
-  text-transform: uppercase;
 }
 .byline {
   margin-top: 2px;
@@ -60,7 +59,7 @@
   font-size: 13px;
   line-height: 2.2;
   letter-spacing: 0.4em;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 .divider {
   width: 80px;
