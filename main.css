@@ -6,7 +6,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-image: url('bg.jpg');
+  /*background-image: url('bg.jpg'); update with bg*/
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -46,7 +46,6 @@
   font-size: 34px;
   line-height: 1;
   letter-spacing: 0.26em;
-  font-weight: 300;
   font-style: italic;
   font-family: "Lobster", cursive;
   margin-bottom: 0;
@@ -60,7 +59,6 @@
   font-family: "Lato", sans-serif;
   font-size: 13px;
   line-height: 2.2;
-  font-weight: 300;
   letter-spacing: 0.4em;
   text-transform: uppercase;
 }
