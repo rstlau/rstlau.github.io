@@ -10,14 +10,15 @@
 }
 
 .stickytext {
-	text-alight: center;
-	font-size: 13px;
+	text-align: center;
+	font-size: 20px;
 	color:black;
+	letter-spacing: 0.26em;
 	font-family: "Playfair Display", serif;
 	text-transform: lowercase;
 	z-index:3;
 }
-	
+  
 
 /* Centering/backgrounds
 ----------------------------- */
