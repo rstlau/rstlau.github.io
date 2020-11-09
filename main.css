@@ -37,3 +37,37 @@
   margin-top: -4%;
   max-width: 80%;
 }
+
+/* Type
+----------------------------- */
+.name {
+  position: relative;
+  z-index: 2;
+  font-size: 34px;
+  line-height: 1;
+  letter-spacing: 0.26em;
+  font-weight: 300;
+  font-style: italic;
+  font-family: "freight-big-pro";
+  margin-bottom: 0;
+  margin-top: 28px;
+  text-transform: uppercase;
+}
+.byline {
+  margin-top: 2px;
+  position: relative;
+  z-index: 2;
+  font-family: "brandon-grotesque";
+  font-size: 13px;
+  line-height: 2.2;
+  font-weight: 300;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+}
+.divider {
+  width: 80px;
+  margin-top: 75px;
+  border-color: rgba(255,255,255,.3);
+  border-width: 0;
+  border-bottom-width: 1px;
+}
