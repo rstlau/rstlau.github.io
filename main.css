@@ -23,9 +23,23 @@
 /*footer to include contact links
 ----------------------------- */
 .contactfooter{
-	position: absolute;
-	bottom:0;
+  position: fixed;
+  width: 475px;
+  left: 50%;
+  bottom: 50px;
+  margin-left: -237px;
+  padding: 0;
+  list-style-type: none;
 }
+
+.contactfooter > li {
+  display: inline-block;
+}
+
+.contactfooter .contactlink-outer {
+  margin-top: 10px;
+  display: block;
+} 
 
 .contactlink {
   margin-top: 2px;
@@ -38,7 +52,7 @@
   font-size: 13px;
   text-decoration: none;
   opacity: .5;
-  color: #DarkGray;
+  color: DarkGray;
   -webkit-transition: opacity .1s ease-in;
   text-transform: lowercase;
 }
