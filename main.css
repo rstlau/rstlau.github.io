@@ -36,11 +36,6 @@
   display: inline-block;
 }
 
-.contactfooter .contactlink-outer {
-  margin-top: 10px;
-  display: block;
-} 
-
 .contactlink {
   margin-top: 2px;
   position: relative;
@@ -164,7 +159,6 @@
   font-family: "Lato", sans-serif;
   line-height: 2.2;
   letter-spacing: 0.4em;
-  text-transform: lowercase;
   font-size: 13px;
   text-decoration: none;
   opacity: .5;
