@@ -1,14 +1,33 @@
 /*Running banner
 ----------------------------- */
-.header {
-	padding: 30px;
-	text-align: center;
-	background: rgb(237, 227, 83);
+
+.alert-index {
+    height: 100%;
+    width: 100%;
+    background: rgb(237, 227, 83);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    /*background-image: url(image.png);
+    background-repeat: no-repeat;
+	*/
+    position: absolute;
+}
+.enter-button {
+    width: 140px;
+    height:50px;
+    position: relative;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+	text-alight: center;
 	font-size: 13px;
 	color:black;
 	font-family: "Playfair Display", serif;
 	text-transform: lowercase;
 }
+
 
 /* Centering/backgrounds
 ----------------------------- */
