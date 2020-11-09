@@ -1,4 +1,4 @@
-/* Structure & Background
+/* Centering/backgrounds
 ----------------------------- */
 .wrapper {
   position: fixed;
@@ -55,7 +55,7 @@
   background-size: 100%;
 }
 
-/* Type
+/* Text style
 ----------------------------- */
 .name {
   position: relative;
@@ -89,7 +89,7 @@
   border-bottom-width: 1px;
 }*/
 
-/* Sub Links
+/* Sub Links/directory
 ----------------------------- */
 .sublink {
   margin-top: 2px;
